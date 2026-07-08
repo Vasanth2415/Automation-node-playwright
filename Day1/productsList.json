@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Dell Laptop",
+    "price": 50000
+  },
+  {
+    "id": 2,
+    "name": "Samsung Mobile",
+    "price": 15000
+  },
+  {
+    "id": 3,
+    "name": "Apple Tablet",
+    "price": 30000
+  },
+  {
+    "id": 4,
+    "name": "Boat Headphones",
+    "price": 10000
+  },
+  {
+    "id": 5,
+    "name": "SonySmartwatch",
+    "price": 8000
+  }
+]
