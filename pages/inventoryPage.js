@@ -10,7 +10,7 @@ class InventoryPage {
         this.inventoryContainer = page.locator('.inventory_container');
         this.products = page.locator('.inventory_item');
 
-        // Interactive Elements
+        // Interactive Elements list
         this.sortDropdown = page.locator('.product_sort_container');
         this.productPrices = page.locator('.inventory_item_price');
         this.productNames = page.locator('.inventory_item_name');
