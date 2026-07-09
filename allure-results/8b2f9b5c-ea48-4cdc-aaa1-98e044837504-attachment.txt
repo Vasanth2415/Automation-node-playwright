@@ -1,0 +1,3 @@
+Products sorted correctly by Price Low -> High
+Products sorted correctly by Name A -> Z
+2 products successfully added to cart

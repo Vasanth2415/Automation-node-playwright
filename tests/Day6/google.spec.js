@@ -1,6 +1,6 @@
 // Assignment 2 - POM Implementation
 
-const { test, expect } = require('../../fixtures/loginFixture');
+const { test, expect } = require('../../fixtures/LoginFixture');
 const { GooglePage } = require('../../pages/GooglePage');
 
 //Navigates to the Google home gateway and performs a baseline page title evaluation.

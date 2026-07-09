@@ -1,0 +1,3 @@
+Username Placeholder: Username
+Password Placeholder: Password
+Login Button Text: Login

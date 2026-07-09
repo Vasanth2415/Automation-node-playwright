@@ -1,6 +1,6 @@
 //Assignment 4 - Fixtures 
 
-const { test, expect } = require('../../fixtures/loginFixture');
+const { test, expect } = require('../../fixtures/LoginFixture');
 const { InventoryPage } = require('../../pages/InventoryPage');
 
 // Verifies baseline landing page UI structures and minimal inventory count.

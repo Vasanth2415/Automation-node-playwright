@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Playwright automation framework",
   "main": "index.js",
-  "scripts": {"test": "playwright test",
+  "scripts": {
+    "test": "playwright test",
     "test:headed": "playwright test --headed",
-    "report": "playwright show-report"},
+    "report": "playwright show-report"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vasanth2415/Automation-node-playwright.git"
@@ -20,6 +22,8 @@
   "homepage": "https://github.com/Vasanth2415/Automation-node-playwright#readme",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
-    "@types/node": "^26.1.1"
+    "@types/node": "^26.1.1",
+    "allure": "^3.14.2",
+    "allure-playwright": "^3.10.2"
   }
 }
