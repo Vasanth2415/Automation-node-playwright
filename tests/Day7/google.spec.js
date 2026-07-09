@@ -1,6 +1,6 @@
 //Assignment 2 - POM Implementation
 const { test, expect } = require('@playwright/test');
-const { GooglePage } = require('../../pages/GooglePage');
+const { GooglePage } = require('../../pages/googlePage');
 
 // Google Homepage Navigation Validation
 test('Open Google and verify page title', async ({ page }) => {
