@@ -1,6 +1,5 @@
 // Assignment 2 - POM Implementation
 
-const { test, expect } = require('@playwright/test');
 const { test, expect } = require('../../fixtures/LoginFixture');
 const { GooglePage } = require('../../pages/GooglePage');
 
