@@ -1,0 +1,10 @@
+// Assignment 1 Playwright Setup
+const { test, expect } = require('@playwright/test');
+
+test('Verify Playwright setup', async ({ page }) => {
+    await page.goto('https://playwright.dev/');
+    await expect(page).toHaveTitle(/Playwright/);
+
+    console.log('Playwright setup is working successfully!');
+});
+
