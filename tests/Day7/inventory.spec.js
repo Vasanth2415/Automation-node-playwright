@@ -1,5 +1,5 @@
 //Assignment 4 - Fixtures 
-const { test, expect } = require('../../fixtures/LoginFixture');
+const { test, expect } = require('../../fixtures/loginFixture');
 const { InventoryPage } = require('../../pages/InventoryPage');
 
 test('Verify inventory page elements and products', async ({ loggedInPage }) => {

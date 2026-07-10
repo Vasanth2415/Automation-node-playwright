@@ -1,5 +1,5 @@
 //Assignment 2 - POM Implementation
-const { test, expect } = require('../../fixtures/LoginFixture');
+const { test, expect } = require('../../fixtures/loginFixture');
 const { GooglePage } = require('../../pages/GooglePage');
 
 // Google Homepage Navigation Validation

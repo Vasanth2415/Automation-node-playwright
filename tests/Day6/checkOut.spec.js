@@ -1,6 +1,6 @@
 // Assignment 4 - Fixtures 
 
-const { test, expect } = require('../../fixtures/LoginFixture');
+const { test, expect } = require('../../fixtures/loginFixture');
 const { InventoryPage } = require('../../pages/InventoryPage');
 const { CartPage } = require('../../pages/CartPage');
 const { CheckoutPage } = require('../../pages/CheckoutPage');
